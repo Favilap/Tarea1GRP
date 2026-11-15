@@ -6,9 +6,12 @@ responden desde dos servicios gRPC que ya existían. No se cambió ningún `.pro
 
 ## Integrantes del grupo
 
-| Nombre | Correo / usuario de GitHub |
-|---|---|
-| _(completar)_ | _(completar)_ |
+Grupo 1
+
+- Allan Arce
+- Roger Benavides
+- Fabio Ávila
+- Rigoberto
 
 ## Arquitectura
 
