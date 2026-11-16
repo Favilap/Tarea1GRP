@@ -10,8 +10,8 @@ Grupo 1
 
 - Allan Arce
 - Roger Benavides
-- Fabio Ávila
-- Rigoberto
+- Fabio Ávila Perez
+- Rigoberto Arrollo Alvarado
 
 ## Arquitectura
 
